@@ -29,6 +29,7 @@ div.dog{
     background: #8ac9de;
 }
 img.dog{
+    border-radius: 100%;
     width: 70%;
 }
 p.dog{
